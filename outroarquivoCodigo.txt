@@ -1,1 +1,4 @@
 Outro Arquivo de Teste De Git !
+
+New LINE 
+LINE New
